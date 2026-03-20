@@ -40,6 +40,9 @@ Criar estratégias personalizadas de retenção e reativação
 
 Aumentar a rentabilidade com base em dados reais de comportamento
 
+Matriz inspirada: <img width="713" height="366" alt="image" src="https://github.com/user-attachments/assets/5593f59c-aaf5-4a3f-9089-b3e1b5b990ac" />
+
+
 Tabelas: <img width="1897" height="845" alt="image" src="https://github.com/user-attachments/assets/6c2f41c9-931d-4008-a729-e16cc471dd4d" />
 
 Resultado: <img width="189" height="177" alt="image" src="https://github.com/user-attachments/assets/75753b9a-481f-4a74-ab53-db6d48f71796" />
@@ -47,4 +50,8 @@ Resultado: <img width="189" height="177" alt="image" src="https://github.com/use
 Grafíco: <img width="1005" height="486" alt="image" src="https://github.com/user-attachments/assets/76383fe1-74da-4f69-b2be-a3177ed58118" />
 
 
+Recomendações:  
+ Converter “Fiéis Potenciais” em “Fiéis”
+
+Fiéis Potenciais Representam 47% da base, qualquer mudança positiva nesses clientes resulta grande impacto no crescimento da empresa.
 
